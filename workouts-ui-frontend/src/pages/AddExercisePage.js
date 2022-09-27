@@ -82,8 +82,8 @@ export const AddExercisePage = () => {
                     <button
                         type="submit"
                         onClick={addExercise}
-                        id="submit"
-                    >Add</button> to the workout log</label>
+                        id="submit">
+                    Add</button> to the workout log</label>
                 </fieldset>
                 </form>
             </article>
